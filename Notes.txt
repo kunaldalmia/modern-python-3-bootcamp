@@ -1,0 +1,11 @@
+python was invented by guido van rossum.
+
+what does command line do?
+the commmand line is a faster and more powerful way to maneuver your operating system than by using a GUI.
+
+sed 's/dude/colt/g' report.txt > report_new.txt
+
+pwd [stand for] (Print Working Directory)
+
+cd (to add/change directory in cmd)
+cd.. (to go one step back in the path)
